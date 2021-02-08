@@ -1,6 +1,6 @@
 # Getting Started with Customer Management Portal
 
-Clone customer management portal repository in local machine. Navigate to "customer-management-portal" directory and install required packages using bewlo command
+Clone customer management portal repository in local machine. Navigate to "customer-management-portal" directory and install required packages using below command
 
 ### `npm install`
 
