@@ -1,0 +1,15 @@
+{
+  "short_name": "Customer Management Portal",
+  "name": "Customer Management Portal",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

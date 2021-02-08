@@ -1,0 +1,14 @@
+.customer-details-table {
+  padding: 16px;
+  margin: 50px auto 0;
+}
+div.customer-details-table .actions-column-head {
+  background: #fff;
+}
+.table-action-buttons button {
+  padding: 5px;
+  margin: 2px;
+}
+.table-action-buttons button span {
+  font-size: 0.8rem;
+}
