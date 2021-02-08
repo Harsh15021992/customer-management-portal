@@ -18,12 +18,12 @@ This application is built using following technologies
 
 ## Application Folder Structure
 
-customer-management-portal
-|-public (contains index.html file)
-|-src (Contains scripts and styles of the application)
-|-Readme.md (Contains information about project and how to setup)
-|-package.json (Contains meta information about project and required for project setup)
-|-package-lock.json
+customer-management-portal\
+|-public (contains index.html file)\
+|-src (Contains scripts and styles of the application)\
+|-Readme.md (Contains information about project and how to setup)\
+|-package.json (Contains meta information about project and required for project setup)\
+
 
 Clone customer management portal repository in local machine. Navigate to "customer-management-portal" directory and install required packages using below command
 
